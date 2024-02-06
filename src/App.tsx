@@ -20,6 +20,7 @@ function App() {
       p="20px"
       color="white"
       paddingTop="200px"
+      paddingBottom="100px"
     >
       {yesPressed ? (
         <YesState />
