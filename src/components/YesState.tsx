@@ -5,7 +5,7 @@ const YesState = () => {
   return (
     <Box className={styles.container}>
       <Image src="/kristigocouple2024.gif" alt="He said yes yes yes!" />
-      <Heading>My Fiance Said Yes!</Heading>
+      <Heading>My Love Said Yes!</Heading>
     </Box>
   );
 };
